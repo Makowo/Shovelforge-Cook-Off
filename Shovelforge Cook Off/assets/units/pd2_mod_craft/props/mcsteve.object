@@ -1,0 +1,27 @@
+<dynamic_object>
+	<diesel materials="units/pd2_mod_craft/props/mcsteve" orientation_object="rp_root" />
+	
+	<bodies>
+		<body name="static_body" enabled="true" template="static">
+			<object collision_type="mesh_mopp" name="body" />
+			<object collision_type="mesh_mopp" name="leftArm" />
+			<object collision_type="mesh_mopp" name="leftLeg" />
+			<object collision_type="mesh_mopp" name="rightArm" />
+			<object collision_type="mesh_mopp" name="rightLeg" />
+			<object collision_type="mesh_mopp" name="head" />
+			<object collision_type="mesh_mopp" name="hat" />
+		</body>
+	</bodies>
+	
+	<graphics>
+		<graphic_group name="g_all" culling_object="co_culling" enabled="true">
+			<object	name="leftArm"			enabled="true" shadow_caster="true"/>
+			<object	name="leftLeg"			enabled="true" shadow_caster="true"/>
+			<object	name="rightArm"			enabled="true" shadow_caster="true"/>
+			<object	name="rightLeg"			enabled="true" shadow_caster="true"/>
+			<object	name="body"			enabled="true" shadow_caster="true"/>
+			<object	name="head"			enabled="true" shadow_caster="true"/>
+			<object	name="hat"			enabled="true" shadow_caster="true"/>
+		</graphic_group>
+	</graphics>
+</dynamic_object>

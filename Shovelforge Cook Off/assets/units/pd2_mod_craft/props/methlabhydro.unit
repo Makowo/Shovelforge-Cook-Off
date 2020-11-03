@@ -1,0 +1,11 @@
+<unit type="mine" slot="1">
+	<object file="units/pd2_mod_craft/props/methlabhydro" />
+	<extensions>
+		<extension class="ScriptUnitData" name="unit_data" />
+		<extension name="damage" class="UnitDamage" />
+		<extension name="interaction" class="UseInteractionExt">
+			<var name="tweak_data" value="methlab_gas_to_salt" />
+			<var name="_interact_object" value="interaction"/>
+		</extension>
+	</extensions>
+</unit>

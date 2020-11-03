@@ -1,0 +1,20 @@
+<dynamic_object>
+	<diesel materials="units/pd2_mod_craft/props/methlabhydro" orientation_object="rp_root" />
+	<sequence_manager file="units/pd2_mod_craft/props/methlabhydro" />
+	<bodies>
+		<body name="static_body" enabled="true" template="static">
+			<object collision_type="box" name="cauldron_top" />
+			<object collision_type="box" name="cauldron_side" />
+			<object collision_type="box" name="cauldron_inside" />
+		</body>
+	</bodies>
+	
+	<graphics>
+		<graphic_group name="g_all" enabled="true" culling_object="co_egg">
+		    <object	name="cauldron_outline"				enabled="true" />
+		    <object	name="cauldron_top"			enabled="true" />
+		    <object	name="cauldron_side"			enabled="true" />
+		    <object	name="cauldron_inside"			enabled="true" />
+		</graphic_group>
+	</graphics>
+</dynamic_object>

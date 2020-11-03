@@ -1,0 +1,25 @@
+<dynamic_object>
+	<diesel materials="units/pd2_mod_craft/props/mc_hills2" orientation_object="rp_root" />
+	
+	<bodies>
+		<body name="static_body" enabled="true" template="static">
+			<object collision_type="mesh_mopp" name="dirt" />
+			<object collision_type="mesh_mopp" name="dirt_grass_side" />
+			<object collision_type="mesh_mopp" name="dirt_grass_top" />
+			<object collision_type="mesh_mopp" name="black_concrete" />
+			<object collision_type="mesh_mopp" name="yellow_terracotta" />
+			<object collision_type="mesh_mopp" name="gray_concrete" />
+		</body>
+	</bodies>
+	
+	<graphics>
+		<graphic_group name="g_all" culling_object="co_culling" enabled="true">
+			<object	name="dirt"				enabled="true" shadow_caster="true"/>
+			<object	name="dirt_grass_side"			enabled="true" shadow_caster="true"/>
+			<object	name="dirt_grass_top"			enabled="true" shadow_caster="true"/>
+			<object	name="black_concrete"			enabled="true" shadow_caster="true"/>
+			<object	name="yellow_terracotta"			enabled="true" shadow_caster="true"/>
+			<object	name="gray_concrete"			enabled="true" shadow_caster="true"/>
+		</graphic_group>
+	</graphics>
+</dynamic_object>

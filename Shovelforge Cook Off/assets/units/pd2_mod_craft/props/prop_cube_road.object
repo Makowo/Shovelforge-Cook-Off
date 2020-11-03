@@ -1,0 +1,30 @@
+<dynamic_object>
+	<!--Enjoy <3-->
+	<diesel materials="units/pd2_mod_craft/props/prop_cube_road" orientation_object="rp_root" />
+
+	
+	<!--Added new body type for vegetation that does not block players-->
+	<bodies>
+		<!--Navigation-->
+		<!--Solid -- Cannot walk, look or shoot through-->
+		<body name="body_solid" enabled="true" template="static">
+			<object name="black_concrete"				collision_type="mesh_mopp" />
+			<object name="gray_concrete"					collision_type="mesh_mopp" />
+			<object name="yellow_terracotta"						collision_type="mesh_mopp" />
+		</body>
+		<!--Vegetation -- Can walk and shoot through, but cannot be see through (double sided material on a one mesh might be iffy)-->
+		
+	</bodies>
+
+	<!--
+	Organised and added the missing ones from the model.
+	Also alphabetised in the same order as blender.
+	-->
+	<graphics>
+		<graphic_group name="graphics" culling_object="co_culling" enabled="true">
+			<object name="black_concrete"				enabled="true" shadow_caster="true" />
+			<object name="gray_concrete"					enabled="true" shadow_caster="true" />
+			<object name="yellow_terracotta"						enabled="true" shadow_caster="true" />
+		</graphic_group>
+	</graphics>
+</dynamic_object>

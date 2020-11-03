@@ -1,0 +1,9 @@
+<table>
+	<objective description="obj_mcookoff_enter_desc" id="obj_mcookoff_enter" text="obj_mcookoff_enter"/>
+	<objective amount="3" description="obj_mcookoff_cook_desc" id="obj_mcookoff_cook" text="obj_mcookoff_cook"/>
+	<objective amount="14" description="obj_mcookoff_portal_desc" id="obj_mcookoff_portal" text="obj_mcookoff_portal"/>
+	<objective description="obj_mcookoff_flintnsteel_desc" id="obj_mcookoff_flintnsteel" text="obj_mcookoff_flintnsteel"/>
+	<objective description="obj_mcookoff_ignite_desc" id="obj_mcookoff_ignite" text="obj_mcookoff_ignite"/>
+	<objective amount="3" description="obj_mcookoff_secure_desc" id="obj_mcookoff_secure" text="obj_mcookoff_secure"/>
+	<objective description="obj_mcookoff_escape_desc" id="obj_mcookoff_escape" text="obj_mcookoff_escape"/>
+</table>

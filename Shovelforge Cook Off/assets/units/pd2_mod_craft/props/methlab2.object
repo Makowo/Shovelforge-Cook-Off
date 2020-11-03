@@ -1,0 +1,25 @@
+<dynamic_object>
+	<diesel materials="units/pd2_mod_craft/props/methlab2" orientation_object="rp_root" />
+	
+	<bodies>
+		<body name="static_body" enabled="true" template="static">
+			<object collision_type="mesh_mopp" name="carpet_brown" />
+			<object collision_type="mesh_mopp" name="smooth_stone_slab_side" />
+			<object collision_type="mesh_mopp" name="plank_oak" />
+			<object collision_type="mesh_mopp" name="cobblestone" />
+			<object collision_type="mesh_mopp" name="plank_spruce" />
+			<object collision_type="mesh_mopp" name="smooth_stone" />
+		</body>
+	</bodies>
+	
+	<graphics>
+		<graphic_group name="g_all" culling_object="co_culling" enabled="true">
+			<object	name="carpet_brown"			enabled="true" shadow_caster="true"/>
+			<object	name="smooth_stone_slab_side"			enabled="true" shadow_caster="true"/>
+			<object	name="plank_oak"			enabled="true" shadow_caster="true"/>
+			<object	name="cobblestone"			enabled="true" shadow_caster="true"/>
+			<object	name="plank_spruce"			enabled="true" shadow_caster="true"/>
+			<object	name="smooth_stone"			enabled="true" shadow_caster="true"/>
+		</graphic_group>
+	</graphics>
+</dynamic_object>

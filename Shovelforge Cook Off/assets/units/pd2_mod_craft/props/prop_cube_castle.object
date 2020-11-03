@@ -1,0 +1,127 @@
+<dynamic_object>
+	<!--Enjoy <3-->
+	<diesel materials="units/pd2_mod_craft/props/prop_cube_castle" orientation_object="rp_root" />
+
+	
+	<!--Added new body type for vegetation that does not block players-->
+	<bodies>
+		<!--Navigation-->
+		<body name="body_nav_solid" enabled="true" template="nav_walk">
+			<object name="c_navcollision"				collision_type="mesh_mopp" />
+		</body> 
+		<!--Solid -- Cannot walk, look or shoot through-->
+		<body name="body_solid" enabled="true" template="static">
+			<object name="black_terracotta"				collision_type="mesh_mopp" />
+			<object name="bookshelf"					collision_type="mesh_mopp" />
+			<object name="brick"						collision_type="mesh_mopp" />
+			<object name="cauldron_inside"				collision_type="mesh_mopp" />
+			<object name="cauldron_side"				collision_type="mesh_mopp" />
+			<object name="cauldron_top"					collision_type="mesh_mopp" />
+			<object name="coal_block"					collision_type="mesh_mopp" />
+			<object name="cobblestone"					collision_type="mesh_mopp" />
+			<object name="cyan_terracotta"				collision_type="mesh_mopp" />
+			<object name="dirt"							collision_type="mesh_mopp" />
+			<object name="dirt_grass_side"				collision_type="mesh_mopp" />
+			<object name="dirt_grass_top"				collision_type="mesh_mopp" />
+			<object name="furnace_front"				collision_type="mesh_mopp" />
+			<object name="furnace_side"					collision_type="mesh_mopp" />
+			<object name="furnace_top"					collision_type="mesh_mopp" />
+			<object name="gravel"						collision_type="mesh_mopp" />
+			<object name="hopper_outside"				collision_type="mesh_mopp" />
+			<object name="hopper_top"					collision_type="mesh_mopp" />
+			<object name="light_blue_terracotta"		collision_type="mesh_mopp" />
+			<object name="log_acacia_side"				collision_type="mesh_mopp" />
+			<object name="log_acacia_top"				collision_type="mesh_mopp" />
+			<object name="plank_acacia"					collision_type="mesh_mopp" />
+			<object name="plank_birch"					collision_type="mesh_mopp" />
+			<object name="plank_dark_oak"				collision_type="mesh_mopp" />
+			<object name="plank_oak"					collision_type="mesh_mopp" />
+			<object name="plank_spruce"					collision_type="mesh_mopp" />
+			<object name="polished_andesite"			collision_type="mesh_mopp" />
+			<object name="polished_diorite"				collision_type="mesh_mopp" />
+			<object name="polished_granite"				collision_type="mesh_mopp" />
+			<object name="quartz_bottom"				collision_type="mesh_mopp" />
+			<object name="quartz_side"					collision_type="mesh_mopp" />
+			<object name="quartz_side_lines"			collision_type="mesh_mopp" />
+			<object name="quartz_top"					collision_type="mesh_mopp" />
+			<object name="quartz_top_lines"				collision_type="mesh_mopp" />
+			<object name="red_terracotta"				collision_type="mesh_mopp" />
+			<object name="sign_oak"						collision_type="mesh_mopp" />
+			<object name="smooth_stone"					collision_type="mesh_mopp" />
+			<object name="smooth_stone_slab_side"		collision_type="mesh_mopp" />
+			<object name="stone"						collision_type="mesh_mopp" />
+			<object name="stone_bricks"					collision_type="mesh_mopp" />
+			<object name="stone_slab_top"				collision_type="mesh_mopp" />
+			<object name="wool_black"					collision_type="mesh_mopp" />
+			<object name="wool_blue"					collision_type="mesh_mopp" />
+			<object name="wool_brown"					collision_type="mesh_mopp" />
+			<object name="wool_gray"					collision_type="mesh_mopp" />
+			<object name="workbench_back"				collision_type="mesh_mopp" />
+			<object name="workbench_front"				collision_type="mesh_mopp" />
+			<object name="workbench_top"				collision_type="mesh_mopp" />
+		</body>
+		<!--Vegetation -- Can walk and shoot through, but cannot be see through (double sided material on a one mesh might be iffy)-->
+		<body name="body_vegetation_nonsolid" enabled="true" template="foliage">
+			<object name="lever"						collision_type="mesh_mopp" />
+		</body> 
+	</bodies>
+
+	<!--
+	Organised and added the missing ones from the model.
+	Also alphabetised in the same order as blender.
+	-->
+	<graphics>
+		<graphic_group name="graphics" culling_object="co_culling" enabled="true">
+			<object name="black_terracotta"				enabled="true" shadow_caster="true" />
+			<object name="bookshelf"					enabled="true" shadow_caster="true" />
+			<object name="brick"						enabled="true" shadow_caster="true" />
+			<object name="cauldron_inside"				enabled="true" shadow_caster="true" />
+			<object name="cauldron_side"				enabled="true" shadow_caster="true" />
+			<object name="cauldron_top"					enabled="true" shadow_caster="true" />
+			<object name="coal_block"					enabled="true" shadow_caster="true" />
+			<object name="cobblestone"					enabled="true" shadow_caster="true" />
+			<object name="cyan_terracotta"				enabled="true" shadow_caster="true" />
+			<object name="dirt"							enabled="true" shadow_caster="true" />
+			<object name="dirt_grass_side"				enabled="true" shadow_caster="true" />
+			<object name="dirt_grass_top"				enabled="true" shadow_caster="true" />
+			<object name="furnace_front"				enabled="true" shadow_caster="true" />
+			<object name="furnace_side"					enabled="true" shadow_caster="true" />
+			<object name="furnace_top"					enabled="true" shadow_caster="true" />
+			<object name="gravel"						enabled="true" shadow_caster="true" />
+			<object name="hopper_outside"				enabled="true" shadow_caster="true" />
+			<object name="hopper_top"					enabled="true" shadow_caster="true" />
+			<object name="lever"						enabled="true" shadow_caster="true" />
+			<object name="light_blue_terracotta"		enabled="true" shadow_caster="true" />
+			<object name="log_acacia_side"				enabled="true" shadow_caster="true" />
+			<object name="log_acacia_top"				enabled="true" shadow_caster="true" />
+			<object name="plank_acacia"					enabled="true" shadow_caster="true" />
+			<object name="plank_birch"					enabled="true" shadow_caster="true" />
+			<object name="plank_dark_oak"				enabled="true" shadow_caster="true" />
+			<object name="plank_oak"					enabled="true" shadow_caster="true" />
+			<object name="plank_spruce"					enabled="true" shadow_caster="true" />
+			<object name="polished_andesite"			enabled="true" shadow_caster="true" />
+			<object name="polished_diorite"				enabled="true" shadow_caster="true" />
+			<object name="polished_granite"				enabled="true" shadow_caster="true" />
+			<object name="quartz_bottom"				enabled="true" shadow_caster="true" />
+			<object name="quartz_side"					enabled="true" shadow_caster="true" />
+			<object name="quartz_side_lines"			enabled="true" shadow_caster="true" />
+			<object name="quartz_top"					enabled="true" shadow_caster="true" />
+			<object name="quartz_top_lines"				enabled="true" shadow_caster="true" />
+			<object name="red_terracotta"				enabled="true" shadow_caster="true" />
+			<object name="sign_oak"						enabled="true" shadow_caster="true" />
+			<object name="smooth_stone"					enabled="true" shadow_caster="true" />
+			<object name="smooth_stone_slab_side"		enabled="true" shadow_caster="true" />
+			<object name="stone"						enabled="true" shadow_caster="true" />
+			<object name="stone_bricks"					enabled="true" shadow_caster="true" />
+			<object name="stone_slab_top"				enabled="true" shadow_caster="true" />
+			<object name="tall_grass"					enabled="true" shadow_caster="true" />
+			<object name="wool_black"					enabled="true" shadow_caster="true" />
+			<object name="wool_blue"					enabled="true" shadow_caster="true" />
+			<object name="wool_brown"					enabled="true" shadow_caster="true" />
+			<object name="wool_gray"					enabled="true" shadow_caster="true" />
+			<object name="workbench_back"				enabled="true" shadow_caster="true" />
+			<object name="workbench_front"				enabled="true" shadow_caster="true" />
+			<object name="workbench_top"				enabled="true" shadow_caster="true" />
+		</graphic_group>
+	</graphics>
+</dynamic_object>

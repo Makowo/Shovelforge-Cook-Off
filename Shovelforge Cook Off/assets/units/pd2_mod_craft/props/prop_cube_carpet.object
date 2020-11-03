@@ -1,0 +1,36 @@
+<dynamic_object>
+	<!--Enjoy <3-->
+	<diesel materials="units/pd2_mod_craft/props/prop_cube_carpet" orientation_object="rp_root" />
+
+	
+	<!--Added new body type for vegetation that does not block players-->
+	<bodies>
+		<!--Navigation-->
+		<!--Solid -- Cannot walk, look or shoot through-->
+		<body name="body_solid" enabled="true" template="static">
+			<object name="iron_bars"				collision_type="mesh_mopp" />
+			<object name="carpet_brown"					collision_type="mesh_mopp" />
+			<object name="carpet_gray"						collision_type="mesh_mopp" />
+			<object name="carpet_pink"				collision_type="mesh_mopp" />
+			<object name="carpet_white"				collision_type="mesh_mopp" />
+			<object name="carpet_red"					collision_type="mesh_mopp" />
+		</body>
+		<!--Vegetation -- Can walk and shoot through, but cannot be see through (double sided material on a one mesh might be iffy)-->
+		
+	</bodies>
+
+	<!--
+	Organised and added the missing ones from the model.
+	Also alphabetised in the same order as blender.
+	-->
+	<graphics>
+		<graphic_group name="graphics" culling_object="co_culling" enabled="true">
+			<object name="iron_bars"				enabled="true" shadow_caster="true" />
+			<object name="carpet_brown"					enabled="true" shadow_caster="true" />
+			<object name="carpet_gray"						enabled="true" shadow_caster="true" />
+			<object name="carpet_pink"				enabled="true" shadow_caster="true" />
+			<object name="carpet_white"				enabled="true" shadow_caster="true" />
+			<object name="carpet_red"					enabled="true" shadow_caster="true" />
+		</graphic_group>
+	</graphics>
+</dynamic_object>

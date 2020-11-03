@@ -1,0 +1,206 @@
+<table name="shovelforge">
+	<level ai_group_type="america" id="mc_methlab" max_bags="54">
+		<add file="levels/mc_methlab/add.xml"/>
+		<assets>
+			<asset name="ammo_bag"/>
+			<asset name="health_bag"/>
+			<asset name="grenade_crate"/>
+			<asset name="bodybags_bag"/>
+		</assets>
+		<include directory="levels/mc_methlab">
+			<file file="world.world" type="binary"/>
+			<file file="continents.continents" type="binary"/>
+			<file file="mission.mission" type="binary"/>
+			<file file="nav_manager_data.nav_data" type="binary"/>
+			<file file="world_sounds.world_sounds" type="binary"/>
+			<file file="world_cameras.world_cameras" type="binary"/>
+			<file file="editor_only/editor_only.continent" type="binary"/>
+			<file file="editor_only/editor_only.mission" type="binary"/>
+			<file file="world/world.continent" type="binary"/>
+			<file file="world/world.mission" type="binary"/>
+			<file file="cover_data.cover_data" type="binary"/>
+			<file file="environments/default.environment" type="custom_xml"/>
+		</include>
+		<packages>
+			<value_node value="levels/narratives/elephant/chew/collision/collision"/>
+		</packages>
+		<script_data_mods directory="scriptdata">
+			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
+				<options merge_mode="add" mode="add"/>
+			</mod>
+		</script_data_mods>
+	</level>
+	<level ai_group_type="minecraft" briefing_dialog="" id="mc_shovelforge" intro_event="" max_bags="255" player_style="generic">
+		<add file="levels/mc_shovelforge/add.xml"/>
+		<assets>
+			<asset name="ammo_bag"/>
+			<asset name="health_bag"/>
+			<asset name="grenade_crate"/>
+			<asset name="mcco_portalhut"/>
+		</assets>
+		<hooks directory="hooks">
+			<hook file="InteractionTweakData.lua" source_file="lib/tweak_data/interactiontweakdata"/>
+			<hook file="EquipmentsTweakdata.lua" source_file="lib/tweak_data/equipmentstweakdata"/>
+			<hook file="CarryTweakdata.lua" source_file="lib/tweak_data/carrytweakdata"/>
+			<hook file="HUDIconsTweakdata.lua" source_file="lib/tweak_data/hudiconstweakdata"/>
+			<hook file="AssetsTweakData.lua" source_file="lib/tweak_data/assetstweakdata"/>
+			<hook file="groupaitweakdata.lua" source_file="lib/tweak_data/groupaitweakdata"/>
+			<hook file="levelstweakdata.lua" source_file="lib/tweak_data/levelstweakdata"/>
+			<hook file="copbase.lua" source_file="lib/units/enemies/cop/copbase"/>
+		</hooks>
+		<include directory="levels/mc_shovelforge">
+			<file file="nav_manager_data.nav_data" type="binary"/>
+			<file file="world.world" type="binary"/>
+			<file file="continents.continents" type="binary"/>
+			<file file="mission.mission" type="binary"/>
+			<file file="world_sounds.world_sounds" type="binary"/>
+			<file file="world_cameras.world_cameras" type="binary"/>
+			<file file="editor_only/editor_only.continent" type="binary"/>
+			<file file="editor_only/editor_only.mission" type="binary"/>
+			<file file="world/world.continent" type="binary"/>
+			<file file="world/world.mission" type="binary"/>
+			<file file="cover_data.cover_data" type="binary"/>
+			<file file="environments/default.environment" type="custom_xml"/>
+		</include>
+		<outro_event>
+			<value_node value=""/>
+		</outro_event>
+		<packages>
+			<value_node value="levels/narratives/elephant/chew/collision/collision"/>
+			<value_node value="levels/narratives/classics/glace/level_art/level_art"/>
+			<value_node value="levels/instances/unique/rat_methlab_special/world/world"/>
+			<value_node value="levels/narratives/locke/des/editor_only/editor_only"/>
+			<value_node value="levels/instances/unique/hvh/hvh_chance/world/world"/>
+			<value_node value="levels/narratives/short1/stage1/editor_only/editor_only"/>
+			<value_node value="levels/narratives/continental/spa/vis_blockers/vis_blockers"/>
+			<value_node value="levels/narratives/vlad/pines/world/world"/>
+		</packages>
+		<script_data_mods directory="scriptdata">
+			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
+				<options merge_mode="add" mode="add"/>
+			</mod>
+		</script_data_mods>
+	</level>
+	<Achievements icon="gui/shovelforge" id="mc_ach_cookoff">
+		<achievement icon="gui/25ovk" id="mc_ach_cookoff_25" rank="3"/>
+		<achievement icon="gui/25dw" id="mc_ach_cookoff_25dw" rank="4"/>
+		<achievement icon="gui/cbt" id="mc_ach_cookoff_ds" rank="3"/>
+		<achievement goal="completion" hidden_achievement="true" icon="gui/win" id="mc_ach_cookoff_clear" rank="1"/>
+		<achievement hidden_achievement="true" icon="gui/fuckedup" id="mc_ach_cookoff_fail" rank="1"/>
+		<achievement amount="1118" goal="kills" icon="gui/release" id="mc_ach_cookoff_kill" map_id="mc_shovelforge" rank="4"/>
+	</Achievements>
+	<AddFiles directory="assets">
+		<texture load="true" path="gui/shovelforgeco"/>
+		<texture load="true" path="gui/cbt"/>
+		<texture load="true" path="gui/25ovk"/>
+		<texture load="true" path="gui/25dw"/>
+		<texture load="true" path="gui/fuckedup"/>
+		<texture load="true" path="gui/win"/>
+		<texture load="true" path="gui/release"/>
+		<texture load="true" path="gui/shovelforge"/>
+	</AddFiles>
+	<AssetUpdates id="27129" provider="modworkshop" use_local_dir="true" version="1.51"/>
+	<Localization default="english.txt" directory="loc"/>
+	<Sounds directory="assets/Sounds">
+		<sound id="egg_01" path="egg.ogg" subtitle_id="egg_01"/>
+		<sound id="egg_02" path="egg.ogg" subtitle_id="egg_02"/>
+		<sound id="egg_03" path="egg.ogg" subtitle_id="egg_03"/>
+		<sound id="egg_04" path="egg.ogg" subtitle_id="egg_04"/>
+		<sound id="egg_05" path="egg.ogg" subtitle_id="egg_05"/>
+		<sound id="wheat_01" path="wheat_01.ogg" subtitle_id="wheat_01"/>
+		<sound id="wheat_02" path="wheat_02.ogg" subtitle_id="wheat_02"/>
+		<sound id="wheat_03" path="wheat_03.ogg" subtitle_id="wheat_03"/>
+		<sound id="wheat_04" path="wheat_04.ogg" subtitle_id="wheat_04"/>
+		<sound id="wheat_05" path="wheat_05.ogg" subtitle_id="wheat_05"/>
+		<sound id="sugar_01" path="sugar_01.ogg" subtitle_id="sugar_01"/>
+		<sound id="sugar_02" path="sugar_02.ogg" subtitle_id="sugar_02"/>
+		<sound id="sugar_03" path="sugar_03.ogg" subtitle_id="sugar_03"/>
+		<sound id="sugar_04" path="sugar_04.ogg" subtitle_id="sugar_04"/>
+		<sound id="sugar_05" path="sugar_05.ogg" subtitle_id="sugar_05"/>
+		<sound id="vo_enter" path="vo_enter.ogg" subtitle_id="vo_enter"/>
+		<sound id="vo_startcook" path="vo_startcook.ogg" subtitle_id="vo_startcook"/>
+		<sound id="vo_portal" path="vo_portal.ogg" subtitle_id="vo_portal"/>
+		<sound id="vo_flintnsteel" path="vo_flintnsteel.ogg" subtitle_id="vo_flintnsteel"/>
+		<sound id="vo_ignite" path="vo_ignite.ogg" subtitle_id="vo_ignite"/>
+		<sound id="vo_secure" path="vo_secure.ogg" subtitle_id="vo_secure"/>
+		<sound id="vo_escape" path="vo_escape.ogg" subtitle_id="vo_escape"/>
+	</Sounds>
+	<contact assets_gui="guis/mission_briefing/preload_contact_bain" id="shovelforge" name_id="contact_shovelforge_name" package="packages/contact_bain"/>
+	<instance id="mc_methlab">
+		<add file="levels/mc_methlab/add.xml"/>
+		<include directory="levels/mc_methlab">
+			<file file="world.world" type="generic_xml"/>
+			<file file="continents.continents" type="custom_xml"/>
+			<file file="mission.mission" type="custom_xml"/>
+			<file file="nav_manager_data.nav_data" type="generic_xml"/>
+			<file file="world_sounds.world_sounds" type="generic_xml"/>
+			<file file="world_cameras.world_cameras" type="custom_xml"/>
+			<file file="editor_only/editor_only.continent" type="custom_xml"/>
+			<file file="editor_only/editor_only.mission" type="generic_xml"/>
+			<file file="world/world.continent" type="custom_xml"/>
+			<file file="world/world.mission" type="generic_xml"/>
+			<file file="cover_data.cover_data" type="custom_xml"/>
+			<file file="environments/default.environment" type="custom_xml"/>
+		</include>
+		<packages/>
+	</instance>
+	<narrative briefing_event="" contact="shovelforge" icon="gui/shovelforgeco" id="shovelforge">
+		<chain>
+			<table level_id="mc_shovelforge" type="d" type_id="heist_type_assault"/>
+		</chain>
+		<contract_cost>
+			<value_node value="4000"/>
+			<value_node value="8000"/>
+			<value_node value="20000"/>
+			<value_node value="40000"/>
+			<value_node value="100000"/>
+			<value_node value="100000"/>
+			<value_node value="100000"/>
+		</contract_cost>
+		<crimenet_callouts>
+			<value_node value="nothing"/>
+		</crimenet_callouts>
+		<crimenet_videos>
+			<value_node value="cn_branchbank2"/>
+		</crimenet_videos>
+		<debrief_event>
+			<value_node value=""/>
+		</debrief_event>
+		<experience_mul>
+			<value_node value="1"/>
+			<value_node value="1"/>
+			<value_node value="1"/>
+			<value_node value="1"/>
+			<value_node value="3"/>
+			<value_node value="3"/>
+			<value_node value="3"/>
+		</experience_mul>
+		<max_mission_xp>
+			<value_node value="8000"/>
+			<value_node value="8000"/>
+			<value_node value="8000"/>
+			<value_node value="8000"/>
+			<value_node value="8000"/>
+			<value_node value="8000"/>
+			<value_node value="8000"/>
+		</max_mission_xp>
+		<min_mission_xp>
+			<value_node value="2000"/>
+			<value_node value="2000"/>
+			<value_node value="2000"/>
+			<value_node value="2000"/>
+			<value_node value="2000"/>
+			<value_node value="2000"/>
+			<value_node value="2000"/>
+		</min_mission_xp>
+		<payout>
+			<value_node value="6000"/>
+			<value_node value="12000"/>
+			<value_node value="30000"/>
+			<value_node value="50000"/>
+			<value_node value="60000"/>
+			<value_node value="80000"/>
+			<value_node value="100000"/>
+		</payout>
+	</narrative>
+</table>

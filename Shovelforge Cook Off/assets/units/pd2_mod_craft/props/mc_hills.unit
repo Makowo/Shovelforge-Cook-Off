@@ -1,0 +1,6 @@
+<unit type="mine" slot="1">
+	<object file="units/pd2_mod_craft/props/mc_hills" />
+	<extensions>
+		<extension class="ScriptUnitData" name="unit_data" />
+	</extensions>
+</unit>

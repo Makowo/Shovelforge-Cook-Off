@@ -1,0 +1,91 @@
+<table directory="assets">
+	<add unload_on_restart="true">
+		<texture path="units/pd2_mod_craft/props/textures/cobblestone_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/wool_brown_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/cauldron_inside_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/cauldron_side_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/cauldron_top_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/plank_acacia_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/plank_birch_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/plank_dark_oak_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/plank_oak_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/plank_spruce_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/smooth_stone_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/smooth_stone_slab_side_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/wool_blue_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/temp"/>
+		<texture path="units/pd2_mod_craft/props/textures/blue_stuff"/>
+		<material_config path="units/pd2_mod_craft/material_mastercoff"/>
+		<model path="units/pd2_mod_craft/props_rex/mc_pku_blue_stuff"/>
+		<object path="units/pd2_mod_craft/props_rex/mc_pku_blue_stuff"/>
+		<sequence_manager path="units/pd2_mod_craft/props_rex/mc_pku_blue_stuff"/>
+		<unit path="units/pd2_mod_craft/props_rex/mc_pku_blue_stuff"/>
+	</add>
+	<add unload_on_restart="true">
+		<material_config path="units/pd2_mod_craft/props/methlab"/>
+		<model path="units/pd2_mod_craft/props/methlab"/>
+		<object path="units/pd2_mod_craft/props/methlab"/>
+		<unit path="units/pd2_mod_craft/props/methlab"/>
+		<material_config path="units/pd2_mod_craft/props/methlab2"/>
+		<model path="units/pd2_mod_craft/props/methlab2"/>
+		<object path="units/pd2_mod_craft/props/methlab2"/>
+		<unit path="units/pd2_mod_craft/props/methlab2"/>
+		<material_config path="units/pd2_mod_craft/props/methlabhydro"/>
+		<model path="units/pd2_mod_craft/props/methlabhydro"/>
+		<object path="units/pd2_mod_craft/props/methlabhydro"/>
+		<unit path="units/pd2_mod_craft/props/methlabhydro"/>
+		<texture path="units/pd2_mod_craft/props/textures/brewing_stand_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/brewing_stand_op"/>
+		<texture path="units/pd2_mod_craft/props/textures/brewing_stand_base_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/cauldron_inside_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/cauldron_top_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/cauldron_side_df"/>
+		<texture path="units/transparent_op"/>
+		<texture path="units/white_df"/>
+		<sequence_manager path="units/pd2_mod_craft/props/methlabhydro"/>
+		<sequence_manager path="units/pd2_mod_craft/props/methlab"/>
+		<sequence_manager path="units/pd2_mod_craft/props/methlabcc"/>
+		<material_config path="units/pd2_mod_craft/props/methlabcc"/>
+		<model path="units/pd2_mod_craft/props/methlabcc"/>
+		<object path="units/pd2_mod_craft/props/methlabcc"/>
+		<unit path="units/pd2_mod_craft/props/methlabcc"/>
+	</add>
+	<add unload_on_restart="true">
+		<texture path="units/pd2_mod_craft/props/textures/cake_top"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_side"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_bottom"/>
+		<sequence_manager path="units/pd2_mod_craft/props/cake"/>
+		<model path="units/pd2_mod_craft/props/cake"/>
+		<object path="units/pd2_mod_craft/props/cake"/>
+		<unit path="units/pd2_mod_craft/props/cake"/>
+	</add>
+	<add path="units/payday2/pickups/gen_pku_methlab_hydrogen_cloride/gen_pku_methlab_hydrogen_cloride" type="unit">
+		<texture force="true" path="units/payday2/pickups/gen_pku_methlab_hydrogen_cloride/chloride_df" unload="true"/>
+		<texture force="true" path="units/payday2/pickups/gen_pku_methlab_hydrogen_cloride/chloride_nm" unload="true"/>
+		<cooked_physics force="true" path="units/payday2/pickups/gen_pku_methlab_hydrogen_cloride/gen_pku_methlab_hydrogen_cloride" unload="true"/>
+		<material_config force="true" path="units/payday2/pickups/gen_pku_methlab_hydrogen_cloride/gen_pku_methlab_hydrogen_cloride" unload="true"/>
+		<model force="true" path="units/payday2/pickups/gen_pku_methlab_hydrogen_cloride/gen_pku_methlab_hydrogen_cloride" unload="true"/>
+		<object force="true" path="units/payday2/pickups/gen_pku_methlab_hydrogen_cloride/gen_pku_methlab_hydrogen_cloride" unload="true"/>
+		<sequence_manager force="true" path="units/payday2/pickups/gen_pku_methlab_hydrogen_cloride/gen_pku_methlab_hydrogen_cloride" unload="true"/>
+		<unit force="true" path="units/payday2/pickups/gen_pku_methlab_hydrogen_cloride/gen_pku_methlab_hydrogen_cloride" unload="true"/>
+	</add>
+	<add path="effects/payday2/environment/bubble_alex_must_die_1" type="effect">
+		<texture force="true" path="effects/textures/effects_atlas" unload="true"/>
+		<texture force="true" path="effects/textures/bullet_hit/e_dist_heat" unload="true"/>
+		<effect force="true" load="true" path="effects/payday2/environment/bubble_alex_must_die_1" unload="true"/>
+	</add>
+	<add path="effects/payday2/environment/fire_alex_must_die_1" type="effect">
+		<texture force="true" path="effects/textures/effects_atlas" unload="true"/>
+		<texture force="true" path="effects/textures/bullet_hit/e_dist_heat" unload="true"/>
+		<effect force="true" load="true" path="effects/payday2/environment/fire_alex_must_die_1" unload="true"/>
+	</add>
+	<add path="effects/payday2/environment/smoke_alex_must_die_1" type="effect">
+		<texture force="true" path="effects/textures/effects_atlas" unload="true"/>
+		<texture force="true" path="effects/textures/bullet_hit/e_dist_heat" unload="true"/>
+		<effect force="true" load="true" path="effects/payday2/environment/smoke_alex_must_die_1" unload="true"/>
+	</add>
+	<add path="effects/payday2/environment/starting_fire_alex_must_die_1" type="effect">
+		<effect force="true" load="true" path="effects/payday2/environment/starting_fire_alex_must_die_1" unload="true"/>
+		<texture force="true" path="effects/textures/effects_atlas" unload="true"/>
+	</add>
+</table>

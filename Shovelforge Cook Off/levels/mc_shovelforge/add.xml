@@ -1,0 +1,1729 @@
+<table directory="assets">
+	<add unload_on_restart="true">
+		<texture path="units/pd2_mod_craft/props/textures/cobblestone_df"/>
+		<texture path="gui/wheaticon"/>
+		<texture path="gui/obsicon"/>
+		<texture path="gui/cobblestone"/>
+		<texture path="gui/eggicon"/>
+		<texture path="gui/sugaricon"/>
+		<texture path="gui/flinticon"/>
+		<texture path="gui/ironicon"/>
+		<texture path="gui/flintnsteelicon"/>
+		<texture path="units/pd2_mod_craft/props/textures/gravel_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/dirt_snow_side_df"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_snow_grass_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/snow_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/stone_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/black_terracotta_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/bookshelf_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/brick_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/wool_brown_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/wool_gray_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/wool_pink_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/wool_red_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/wool_white_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/cauldron_inside_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/cauldron_side_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/cauldron_top_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/coal_block_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/cyan_terracotta_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/dirt_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/dirt_grass_side_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/dirt_grass_top_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/furnace_front_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/furnace_side_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/furnace_top_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/hopper_outside_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/hopper_top_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/ladder_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/leaves_birch_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/lever_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/light_blue_terracotta_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_acacia_side_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_acacia_top_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/oak_trapdoor_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/plank_acacia_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/plank_birch_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/plank_dark_oak_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/plank_oak_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/plank_spruce_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/polished_andesite_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/polished_diorite_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/polished_granite_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/quartz_bottom_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/quartz_side_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/quartz_side_lines_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/quartz_top_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/quartz_top_lines_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/red_terracotta_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/sign_oak_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/smooth_stone_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/smooth_stone_slab_side_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/stone_bricks_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/tall_grass_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/torch_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/torch_flame_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/wool_black_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/wool_blue_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/workbench_back_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/workbench_front_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/workbench_top_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/temp"/>
+		<texture path="units/pd2_mod_craft/props/textures/blue_stuff"/>
+		<texture path="units/pd2_mod_craft/props/textures/leaves_oak_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_oak_top_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_oak_side_df"/>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_castle"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_castle"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_castle"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_castle"/>
+		<material_config path="units/pd2_mod_craft/material_mastercoff"/>
+		<model path="units/pd2_mod_craft/props_rex/mc_cliffs"/>
+		<object path="units/pd2_mod_craft/props_rex/mc_cliffs"/>
+		<unit path="units/pd2_mod_craft/props_rex/mc_cliffs"/>
+		<model path="units/pd2_mod_craft/props_rex/mc_tree_oak_a"/>
+		<object path="units/pd2_mod_craft/props_rex/mc_tree_oak_a"/>
+		<unit path="units/pd2_mod_craft/props_rex/mc_tree_oak_a"/>
+		<model path="units/pd2_mod_craft/props_rex/mc_pku_blue_stuff"/>
+		<object path="units/pd2_mod_craft/props_rex/mc_pku_blue_stuff"/>
+		<unit path="units/pd2_mod_craft/props_rex/mc_pku_blue_stuff"/>
+		<texture path="units/pd2_mod_craft/props/textures/steve"/>
+		<material_config path="units/pd2_mod_craft/props/mcsteve"/>
+		<model path="units/pd2_mod_craft/props/mcsteve"/>
+		<object path="units/pd2_mod_craft/props/mcsteve"/>
+		<unit path="units/pd2_mod_craft/props/mcsteve"/>
+		<sequence_manager path="units/pd2_mod_craft/props_rex/mc_pku_blue_stuff"/>
+	</add>
+	<add unload_on_restart="true">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_carpet"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_carpet"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_carpet"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_carpet"/>
+		<material_config path="units/pd2_mod_craft/props/mc_hills"/>
+		<model path="units/pd2_mod_craft/props/mc_hills"/>
+		<object path="units/pd2_mod_craft/props/mc_hills"/>
+		<unit path="units/pd2_mod_craft/props/mc_hills"/>
+		<material_config path="units/pd2_mod_craft/props/mc_hills2"/>
+		<model path="units/pd2_mod_craft/props/mc_hills2"/>
+		<object path="units/pd2_mod_craft/props/mc_hills2"/>
+		<unit path="units/pd2_mod_craft/props/mc_hills2"/>
+		<material_config path="units/pd2_mod_craft/props/mc_hills3"/>
+		<model path="units/pd2_mod_craft/props/mc_hills3"/>
+		<object path="units/pd2_mod_craft/props/mc_hills3"/>
+		<unit path="units/pd2_mod_craft/props/mc_hills3"/>
+		<material_config path="units/pd2_mod_craft/props/mc_hill4"/>
+		<model path="units/pd2_mod_craft/props/mc_hill4"/>
+		<object path="units/pd2_mod_craft/props/mc_hill4"/>
+		<unit path="units/pd2_mod_craft/props/mc_hill4"/>
+		<texture path="units/pd2_mod_craft/props/textures/iron_bars_df"/>
+		<material_config path="units/pd2_mod_craft/props/methlab"/>
+		<model path="units/pd2_mod_craft/props/methlab"/>
+		<object path="units/pd2_mod_craft/props/methlab"/>
+		<unit path="units/pd2_mod_craft/props/methlab"/>
+		<material_config path="units/pd2_mod_craft/props/lava"/>
+		<model path="units/pd2_mod_craft/props/lava"/>
+		<object path="units/pd2_mod_craft/props/lava"/>
+		<unit path="units/pd2_mod_craft/props/lava"/>
+		<texture path="units/pd2_mod_craft/props/textures/lava"/>
+		<texture path="units/pd2_mod_craft/props/textures/brewing_stand_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/brewing_stand_op"/>
+		<texture path="units/pd2_mod_craft/props/textures/brewing_stand_base_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/cauldron_inside_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/cauldron_top_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/cauldron_side_df"/>
+	</add>
+	<add unload_on_restart="true">
+		<material_config path="units/pd2_mod_craft/props/methlab"/>
+		<model path="units/pd2_mod_craft/props/methlab"/>
+		<object path="units/pd2_mod_craft/props/methlab"/>
+		<unit path="units/pd2_mod_craft/props/methlab"/>
+		<material_config path="units/pd2_mod_craft/props/methlab2"/>
+		<model path="units/pd2_mod_craft/props/methlab2"/>
+		<object path="units/pd2_mod_craft/props/methlab2"/>
+		<unit path="units/pd2_mod_craft/props/methlab2"/>
+		<material_config path="units/pd2_mod_craft/props/methlabhydro"/>
+		<model path="units/pd2_mod_craft/props/methlabhydro"/>
+		<object path="units/pd2_mod_craft/props/methlabhydro"/>
+		<unit path="units/pd2_mod_craft/props/methlabhydro"/>
+		<texture path="units/pd2_mod_craft/props/textures/brewing_stand_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/brewing_stand_op"/>
+		<texture path="units/pd2_mod_craft/props/textures/brewing_stand_base_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/cauldron_inside_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/cauldron_top_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/cauldron_side_df"/>
+		<texture path="units/transparent_op"/>
+		<texture path="units/white_df"/>
+		<sequence_manager path="units/pd2_mod_craft/props/methlabhydro"/>
+		<sequence_manager path="units/pd2_mod_craft/props/methlab"/>
+		<sequence_manager path="units/pd2_mod_craft/props/methlabcc"/>
+		<material_config path="units/pd2_mod_craft/props/methlabcc"/>
+		<model path="units/pd2_mod_craft/props/methlabcc"/>
+		<object path="units/pd2_mod_craft/props/methlabcc"/>
+		<unit path="units/pd2_mod_craft/props/methlabcc"/>
+	</add>
+	<add unload_on_restart="true">
+		<texture path="units/pd2_mod_craft/props/textures/black_concrete_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/gray_concrete_df"/>
+		<texture path="units/pd2_mod_craft/props/textures/yellow_terracotta_df"/>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_road"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_road"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_road"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_road"/>
+	</add>
+	<add unload_on_restart="true">
+		<model path="units/pd2_mod_craft/props_rex/egg"/>
+		<object path="units/pd2_mod_craft/props_rex/egg"/>
+		<sequence_manager path="units/pd2_mod_craft/props_rex/egg"/>
+		<texture path="units/pd2_mod_craft/props/textures/egg"/>
+		<unit path="units/pd2_mod_craft/props_rex/egg"/>
+	</add>
+	<add unload_on_restart="true">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_snow"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_snow"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_snow"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_snow"/>
+	</add>
+	<add unload_on_restart="true">
+		<model path="units/pd2_mod_craft/props/prop_cube_obsidian_int"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_obsidian_int"/>
+		<sequence_manager path="units/pd2_mod_craft/props/prop_cube_obsidian_int"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_obsidian_int"/>
+	</add>
+	<add unload_on_restart="true">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_netherportal"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_netherportal"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_netherportal"/>
+		<sequence_manager path="units/pd2_mod_craft/props/prop_cube_netherportal"/>
+		<texture path="units/pd2_mod_craft/props/textures/portal"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_netherportal"/>
+	</add>
+	<add unload_on_restart="true">
+		<model path="units/pd2_mod_craft/props/wheat"/>
+		<object path="units/pd2_mod_craft/props/wheat"/>
+		<sequence_manager path="units/pd2_mod_craft/props/wheat"/>
+		<texture path="units/pd2_mod_craft/props/textures/wheat"/>
+		<unit path="units/pd2_mod_craft/props/wheat"/>
+	</add>
+	<add unload_on_restart="true">
+		<model path="units/pd2_mod_craft/props/ironingot"/>
+		<object path="units/pd2_mod_craft/props/ironingot"/>
+		<sequence_manager path="units/pd2_mod_craft/props/ironingot"/>
+		<texture path="units/pd2_mod_craft/props/textures/ironingot"/>
+		<unit path="units/pd2_mod_craft/props/ironingot"/>
+	</add>
+	<add unload_on_restart="true">
+		<model path="units/pd2_mod_craft/props/flint"/>
+		<object path="units/pd2_mod_craft/props/flint"/>
+		<texture path="units/pd2_mod_craft/props/textures/flint"/>
+		<unit path="units/pd2_mod_craft/props/flint"/>
+	</add>
+	<add unload_on_restart="true">
+		<model path="units/pd2_mod_craft/props/flintnsteel"/>
+		<object path="units/pd2_mod_craft/props/flintnsteel"/>
+		<texture path="units/pd2_mod_craft/props/textures/flintnsteel"/>
+		<unit path="units/pd2_mod_craft/props/flintnsteel"/>
+	</add>
+	<add unload_on_restart="true">
+		<model path="units/pd2_mod_craft/props_rex/mc_pku_sugar"/>
+		<object path="units/pd2_mod_craft/props_rex/mc_pku_sugar"/>
+		<sequence_manager path="units/pd2_mod_craft/props_rex/mc_pku_sugar"/>
+		<texture path="units/pd2_mod_craft/props/textures/sugar"/>
+		<unit path="units/pd2_mod_craft/props_rex/mc_pku_sugar"/>
+	</add>
+	<add unload_on_restart="true">
+		<texture path="units/pd2_mod_craft/props/textures/cake_top"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_side"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_bottom"/>
+		<model path="units/pd2_mod_craft/props/cake"/>
+		<object path="units/pd2_mod_craft/props/cake"/>
+		<sequence_manager path="units/pd2_mod_craft/props/cake"/>
+		<unit path="units/pd2_mod_craft/props/cake"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_dirt" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_dirt" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_dirt" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_dirt_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_dirt" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_oak_plank" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_oak_plank" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_oak_plank" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_oak_plank_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_oak_plank" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_cobblestone" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_cobblestone" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_cobblestone" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_cobblestone_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_cobblestone" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_log_oak" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_log_oak" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_log_oak" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_log_oak_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_log_oak" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_grass" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_grass" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_grass" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_grass_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_grass" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_bookcase" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_bookcase" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_bookcase" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_bookcase_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_bookcase" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_sand" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_sand" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_sand" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_sand_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_sand" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_gravel" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_gravel" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_gravel" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_gravel_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_gravel" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_bedrock" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_bedrock" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_bedrock" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_bedrock_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_bedrock" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_glass" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_glass" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_glass" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_glass_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_glass" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_brick" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_brick" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_brick" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_brick_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_brick" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_obsidian" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_obsidian" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_obsidian" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_obsidian_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_obsidian" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_slab_stone" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_slab_stone" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_slab_stone" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_slab_stone_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_slab_stone" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_concrete_yellow" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_concrete_yellow" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_concrete_yellow" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_concrete_yellow_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_concrete_yellow" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_concrete_black" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_concrete_black" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_concrete_black" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_concrete_black_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_concrete_black" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_crafting_table" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_crafting_table" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_crafting_table" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_crafting_table_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_crafting_table" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_oak_leaf" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_oak_leaf" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_oak_leaf" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_oak_leaf_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_oak_leaf" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_iron_door" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_iron_door" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_iron_door" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_craft/props/prop_cube_iron_door" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_iron_door_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_iron_door" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_oak_door" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_oak_door" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_oak_door" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_craft/props/prop_cube_oak_door" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_oak_door_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_oak_door" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_stair_cobblestone" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_stair_cobblestone" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_stair_cobblestone" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_stair_cobblestone_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_stair_cobblestone" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_ladder" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_ladder" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_ladder" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_ladder_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_ladder" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_furnace" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_furnace" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_furnace" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_furnace_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_furnace" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_fence" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_fence" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_fence" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_craft/props/prop_cube_fence" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_fence_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_fence" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_chest" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_chest" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_chest" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_craft/props/prop_cube_chest" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_chest_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_chest" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_glass_int" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_glass_int" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_glass_int" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_craft/props/prop_cube_glass_int" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_glass_int_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_glass_int" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_slab_oak_plank" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_slab_oak_plank" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_slab_oak_plank" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_slab_oak_plank_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_slab_oak_plank" unload="true"/>
+	</add>
+	<add path="units/dev_tools/level_tools/collision/dev_collision_1m/dev_collision_1m" type="unit">
+		<texture force="true" path="core/textures/hub_elements_df" unload="true"/>
+		<texture force="true" path="units/dev_tools/level_tools/ai_coverpoint_df" unload="true"/>
+		<cooked_physics force="true" path="units/dev_tools/level_tools/collision/dev_collision_1m/dev_collision_1m" unload="true"/>
+		<material_config force="true" path="core/material_configs/hub_elements" unload="true"/>
+		<model force="true" path="units/dev_tools/level_tools/collision/dev_collision_1m/dev_collision_1m" unload="true"/>
+		<object force="true" path="units/dev_tools/level_tools/collision/dev_collision_1m/dev_collision_1m" unload="true"/>
+		<unit force="true" path="units/dev_tools/level_tools/collision/dev_collision_1m/dev_collision_1m" unload="true"/>
+	</add>
+	<unit_load>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_furnace" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_furnace" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_furnace" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_furnace_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_furnace" unload="true"/>
+	</unit_load>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_dirt" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_dirt" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_dirt" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_dirt_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_dirt" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_oak_plank" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_oak_plank" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_oak_plank" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_oak_plank_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_oak_plank" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_cobblestone" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_cobblestone" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_cobblestone" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_cobblestone_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_cobblestone" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_log_oak" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_log_oak" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_log_oak" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_log_oak_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_log_oak" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_grass" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_grass" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_grass" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_grass_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_grass" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_bookcase" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_bookcase" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_bookcase" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_bookcase_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_bookcase" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_sand" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_sand" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_sand" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_sand_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_sand" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_gravel" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_gravel" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_gravel" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_gravel_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_gravel" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_bedrock" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_bedrock" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_bedrock" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_bedrock_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_bedrock" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_glass" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_glass" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_glass" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_glass_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_glass" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_brick" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_brick" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_brick" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_brick_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_brick" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_obsidian" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_obsidian" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_obsidian" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_obsidian_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_obsidian" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_slab_stone" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_slab_stone" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_slab_stone" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_slab_stone_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_slab_stone" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_concrete_yellow" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_concrete_yellow" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_concrete_yellow" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_concrete_yellow_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_concrete_yellow" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_concrete_black" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_concrete_black" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_concrete_black" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_concrete_black_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_concrete_black" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_crafting_table" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_crafting_table" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_crafting_table" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_crafting_table_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_crafting_table" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_oak_leaf" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_oak_leaf" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_oak_leaf" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_oak_leaf_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_oak_leaf" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_iron_door" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_iron_door" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_iron_door" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_craft/props/prop_cube_iron_door" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_iron_door_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_iron_door" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_oak_door" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_oak_door" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_oak_door" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_craft/props/prop_cube_oak_door" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_oak_door_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_oak_door" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_stair_cobblestone" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_stair_cobblestone" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_stair_cobblestone" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_stair_cobblestone_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_stair_cobblestone" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_ladder" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_ladder" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_ladder" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_ladder_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_ladder" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_furnace" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_furnace" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_furnace" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_furnace_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_furnace" unload="true"/>
+	</add>
+	<unit_load>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_furnace" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_furnace" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_furnace" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_furnace_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_furnace" unload="true"/>
+	</unit_load>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_fence" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_fence" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_fence" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_craft/props/prop_cube_fence" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_fence_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_fence" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_chest" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_chest" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_chest" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_craft/props/prop_cube_chest" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_chest_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_chest" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_black_glazed_terracotta" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_black_glazed_terracotta" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_black_glazed_terracotta" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_black_glazed_terracotta_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_black_glazed_terracotta" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_yellow_glazed_terracotta" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_yellow_glazed_terracotta" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_yellow_glazed_terracotta" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_yellow_glazed_terracotta_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_yellow_glazed_terracotta" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_glass_int" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_glass_int" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_glass_int" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_craft/props/prop_cube_glass_int" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_glass_int_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_glass_int" unload="true"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_slab_oak_plank" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_slab_oak_plank" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_slab_oak_plank" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_slab_oak_plank_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_slab_oak_plank" unload="true"/>
+	</add>
+	<unit_load>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_slab_oak_plank" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_slab_oak_plank" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_slab_oak_plank" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_slab_oak_plank_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_slab_oak_plank" unload="true"/>
+	</unit_load>
+	<unit_load>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_glass_int" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_glass_int" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_glass_int" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_craft/props/prop_cube_glass_int" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_glass_int_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_glass_int" unload="true"/>
+	</unit_load>
+	<unit_load>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_chest" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_chest" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_chest" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_craft/props/prop_cube_chest" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_chest_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_chest" unload="true"/>
+	</unit_load>
+	<unit_load>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_fence" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_fence" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_fence" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_craft/props/prop_cube_fence" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_fence_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_fence" unload="true"/>
+	</unit_load>
+	<unit_load>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_ladder" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_ladder" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_ladder" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_ladder_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_ladder" unload="true"/>
+	</unit_load>
+	<unit_load>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_stair_cobblestone" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_stair_cobblestone" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_stair_cobblestone" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_stair_cobblestone_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_stair_cobblestone" unload="true"/>
+	</unit_load>
+	<unit_load>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_oak_door" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_oak_door" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_oak_door" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_craft/props/prop_cube_oak_door" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_oak_door_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_oak_door" unload="true"/>
+	</unit_load>
+	<unit_load>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_iron_door" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_iron_door" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_iron_door" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_craft/props/prop_cube_iron_door" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_iron_door_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_iron_door" unload="true"/>
+	</unit_load>
+	<unit_load>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_oak_leaf" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_oak_leaf" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_oak_leaf" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_oak_leaf_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_oak_leaf" unload="true"/>
+	</unit_load>
+	<unit_load>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_crafting_table" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_crafting_table" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_crafting_table" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_crafting_table_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_crafting_table" unload="true"/>
+	</unit_load>
+	<unit_load>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_concrete_black" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_concrete_black" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_concrete_black" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_concrete_black_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_concrete_black" unload="true"/>
+	</unit_load>
+	<unit_load>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_concrete_yellow" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_concrete_yellow" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_concrete_yellow" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_concrete_yellow_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_concrete_yellow" unload="true"/>
+	</unit_load>
+	<unit_load>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_slab_stone" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_slab_stone" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_slab_stone" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_slab_stone_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_slab_stone" unload="true"/>
+	</unit_load>
+	<add>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_stair_oak" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_stair_oak" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_stair_oak" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_stair_oak_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_stair_oak" unload="true"/>
+	</add>
+	<unit_load>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_stair_oak" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_stair_oak" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_stair_oak" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_stair_oak_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_stair_oak" unload="true"/>
+	</unit_load>
+	<unit_load>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_obsidian" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_obsidian" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_obsidian" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_obsidian_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_obsidian" unload="true"/>
+	</unit_load>
+	<unit_load>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_glass" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_glass" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_glass" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_glass_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_glass" unload="true"/>
+	</unit_load>
+	<unit_load>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_bookcase" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_bookcase" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_bookcase" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_bookcase_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_bookcase" unload="true"/>
+	</unit_load>
+	<unit_load>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_grass" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_grass" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_grass" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_grass_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_grass" unload="true"/>
+	</unit_load>
+	<unit_load>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_log_oak" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_log_oak" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_log_oak" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_log_oak_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_log_oak" unload="true"/>
+	</unit_load>
+	<unit_load path="units/pd2_mod_craft/props/prop_cube_dirt" type="unit">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_dirt" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_dirt" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_dirt" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_dirt_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_dirt" unload="true"/>
+	</unit_load>
+	<unit_load>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_oak_plank" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_oak_plank" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_oak_plank" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_oak_plank_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_oak_plank" unload="true"/>
+	</unit_load>
+	<unit_load>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_cobblestone" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_cobblestone" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_cobblestone" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_cobblestone_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_cobblestone" unload="true"/>
+	</unit_load>
+	<add path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_4x3m" type="unit">
+		<texture force="true" path="core/textures/hub_elements_df" unload="true"/>
+		<texture force="true" path="units/dev_tools/level_tools/ai_coverpoint_df" unload="true"/>
+		<cooked_physics force="true" path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_4x3m" unload="true"/>
+		<material_config force="true" path="core/material_configs/hub_elements" unload="true"/>
+		<model force="true" path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_4x3m" unload="true"/>
+		<object force="true" path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_4x3m" unload="true"/>
+		<unit force="true" path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_4x3m" unload="true"/>
+	</add>
+	<add path="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_1x3m" type="unit">
+		<texture force="true" path="core/textures/hub_elements_df" unload="true"/>
+		<texture force="true" path="units/dev_tools/level_tools/ai_coverpoint_df" unload="true"/>
+		<cooked_physics force="true" path="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_1x3m" unload="true"/>
+		<material_config force="true" path="core/material_configs/hub_elements" unload="true"/>
+		<model force="true" path="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_1x3m" unload="true"/>
+		<object force="true" path="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_1x3m" unload="true"/>
+		<unit force="true" path="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_1x3m" unload="true"/>
+	</add>
+	<add path="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_4x3m" type="unit">
+		<texture force="true" path="core/textures/hub_elements_df" unload="true"/>
+		<texture force="true" path="units/dev_tools/level_tools/ai_coverpoint_df" unload="true"/>
+		<cooked_physics force="true" path="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_4x3m" unload="true"/>
+		<material_config force="true" path="core/material_configs/hub_elements" unload="true"/>
+		<model force="true" path="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_4x3m" unload="true"/>
+		<object force="true" path="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_4x3m" unload="true"/>
+		<unit force="true" path="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_4x3m" unload="true"/>
+	</add>
+	<add path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x3m" type="unit">
+		<texture force="true" path="core/textures/hub_elements_df" unload="true"/>
+		<texture force="true" path="units/dev_tools/level_tools/ai_coverpoint_df" unload="true"/>
+		<cooked_physics force="true" path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x3m" unload="true"/>
+		<material_config force="true" path="core/material_configs/hub_elements" unload="true"/>
+		<model force="true" path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x3m" unload="true"/>
+		<object force="true" path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x3m" unload="true"/>
+		<unit force="true" path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x3m" unload="true"/>
+	</add>
+	<add path="units/pd2_dlc_arena/dev/are_gen_square_goal_marker_2_4x4_35/are_gen_square_goal_marker_2_4x4_35" type="unit">
+		<texture force="true" path="units/payday2/props/shared_textures/goal_df" unload="true"/>
+		<texture force="true" path="units/gui/area_indicator_df" unload="true"/>
+		<texture force="true" path="units/payday2/props/shared_textures/goal_line_escape_icon_df" unload="true"/>
+		<cooked_physics force="true" path="units/pd2_dlc_arena/dev/are_gen_square_goal_marker_2_4x4_35/are_gen_square_goal_marker_2_4x4_35" unload="true"/>
+		<material_config force="true" path="units/pd2_dlc_arena/dev/are_gen_square_goal_marker_2_4x4_35/are_gen_square_goal_marker_2_4x4_35" unload="true"/>
+		<model force="true" path="units/pd2_dlc_arena/dev/are_gen_square_goal_marker_2_4x4_35/are_gen_square_goal_marker_2_4x4_35" unload="true"/>
+		<object force="true" path="units/pd2_dlc_arena/dev/are_gen_square_goal_marker_2_4x4_35/are_gen_square_goal_marker_2_4x4_35" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_dlc_arena/dev/are_gen_square_goal_marker_2_4x4_35/are_gen_square_goal_marker_2_4x4_35" unload="true"/>
+		<unit force="true" path="units/pd2_dlc_arena/dev/are_gen_square_goal_marker_2_4x4_35/are_gen_square_goal_marker_2_4x4_35" unload="true"/>
+	</add>
+	<add path="units/dev_tools/level_tools/dev_ai_vis_blocker_1x1/dev_ai_vis_blocker_1x1" type="unit">
+		<texture path="core/textures/hub_elements_df" unload="true"/>
+		<texture path="units/dev_tools/level_tools/ai_coverpoint_df" unload="true"/>
+		<cooked_physics path="units/dev_tools/level_tools/dev_ai_vis_blocker_1x1/dev_ai_vis_blocker_1x1" unload="true"/>
+		<material_config path="core/material_configs/hub_elements" unload="true"/>
+		<model path="units/dev_tools/level_tools/dev_ai_vis_blocker_1x1/dev_ai_vis_blocker_1x1" unload="true"/>
+		<object path="units/dev_tools/level_tools/dev_ai_vis_blocker_1x1/dev_ai_vis_blocker_1x1" unload="true"/>
+		<sequence_manager path="units/dev_tools/level_tools/dev_ai_vis_blocker_1x1/dev_ai_vis_blocker_1x1" unload="true"/>
+		<unit path="units/dev_tools/level_tools/dev_ai_vis_blocker_1x1/dev_ai_vis_blocker_1x1" unload="true"/>
+	</add>
+	<add path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" type="unit">
+		<texture path="core/textures/hub_elements_df" unload="true"/>
+		<texture path="units/dev_tools/level_tools/ai_coverpoint_df" unload="true"/>
+		<cooked_physics path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" unload="true"/>
+		<material_config path="core/material_configs/hub_elements" unload="true"/>
+		<model path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" unload="true"/>
+		<object path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" unload="true"/>
+		<unit path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/flint" type="unit">
+		<texture path="units/pd2_mod_craft/props/textures/leaves_oak_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_oak_top_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_oak_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/blue_stuff" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/egg" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/wheat" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/sugar" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_top" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_side" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_bottom" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/ironingot" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/flint" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/flintnsteel" unload="true"/>
+		<texture path="units/white_df" unload="true"/>
+		<texture path="units/transparent_op" unload="true"/>
+		<material_config path="units/pd2_mod_craft/material_mastercoff" unload="true"/>
+		<model path="units/pd2_mod_craft/props/flint" unload="true"/>
+		<object path="units/pd2_mod_craft/props/flint" unload="true"/>
+		<sequence_manager path="units/pd2_mod_craft/props/ironingot" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/flint" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/flintnsteel" type="unit">
+		<texture path="units/pd2_mod_craft/props/textures/leaves_oak_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_oak_top_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_oak_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/blue_stuff" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/egg" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/wheat" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/sugar" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_top" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_side" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_bottom" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/ironingot" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/flint" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/flintnsteel" unload="true"/>
+		<texture path="units/white_df" unload="true"/>
+		<texture path="units/transparent_op" unload="true"/>
+		<material_config path="units/pd2_mod_craft/material_mastercoff" unload="true"/>
+		<model path="units/pd2_mod_craft/props/flintnsteel" unload="true"/>
+		<object path="units/pd2_mod_craft/props/flintnsteel" unload="true"/>
+		<sequence_manager path="units/pd2_mod_craft/props/ironingot" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/flintnsteel" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/ironingot" type="unit">
+		<texture path="units/pd2_mod_craft/props/textures/leaves_oak_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_oak_top_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_oak_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/blue_stuff" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/egg" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/wheat" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/sugar" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_top" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_side" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_bottom" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/ironingot" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/flint" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/flintnsteel" unload="true"/>
+		<texture path="units/white_df" unload="true"/>
+		<texture path="units/transparent_op" unload="true"/>
+		<material_config path="units/pd2_mod_craft/material_mastercoff" unload="true"/>
+		<model path="units/pd2_mod_craft/props/ironingot" unload="true"/>
+		<object path="units/pd2_mod_craft/props/ironingot" unload="true"/>
+		<sequence_manager path="units/pd2_mod_craft/props/ironingot" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/ironingot" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/mcsteve" type="unit">
+		<material_config path="units/pd2_mod_craft/props/mcsteve" unload="true"/>
+		<model path="units/pd2_mod_craft/props/mcsteve" unload="true"/>
+		<object path="units/pd2_mod_craft/props/mcsteve" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/steve" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/mcsteve" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/mc_hill4" type="unit">
+		<texture path="units/pd2_mod_craft/props/textures/dirt_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/dirt_snow_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/snow_df" unload="true"/>
+		<material_config path="units/pd2_mod_craft/props/mc_hill4" unload="true"/>
+		<model path="units/pd2_mod_craft/props/mc_hill4" unload="true"/>
+		<object path="units/pd2_mod_craft/props/mc_hill4" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/mc_hill4" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/mc_hills" type="unit">
+		<texture path="units/pd2_mod_craft/props/textures/dirt_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/dirt_snow_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/snow_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/plank_oak_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/stone_df" unload="true"/>
+		<material_config path="units/pd2_mod_craft/props/mc_hills" unload="true"/>
+		<model path="units/pd2_mod_craft/props/mc_hills" unload="true"/>
+		<object path="units/pd2_mod_craft/props/mc_hills" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/mc_hills" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/mc_hills2" type="unit">
+		<texture path="units/pd2_mod_craft/props/textures/dirt_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/dirt_snow_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/snow_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/gray_concrete_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/black_concrete_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/yellow_terracotta_df" unload="true"/>
+		<material_config path="units/pd2_mod_craft/props/mc_hills2" unload="true"/>
+		<model path="units/pd2_mod_craft/props/mc_hills2" unload="true"/>
+		<object path="units/pd2_mod_craft/props/mc_hills2" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/mc_hills2" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/mc_hills3" type="unit">
+		<texture path="units/pd2_mod_craft/props/textures/dirt_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/dirt_snow_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/snow_df" unload="true"/>
+		<material_config path="units/pd2_mod_craft/props/mc_hills3" unload="true"/>
+		<model path="units/pd2_mod_craft/props/mc_hills3" unload="true"/>
+		<object path="units/pd2_mod_craft/props/mc_hills3" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/mc_hills3" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_bedrock" type="unit">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_bedrock" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_bedrock" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_bedrock" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_bedrock_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_bedrock" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_bookcase" type="unit">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_bookcase" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_bookcase" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_bookcase" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_bookcase_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_bookcase" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_carpet" type="unit">
+		<texture path="units/pd2_mod_craft/props/textures/iron_bars_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/wool_brown_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/wool_gray_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/wool_pink_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/wool_red_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/wool_white_df" unload="true"/>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_carpet" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_carpet" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_carpet" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_carpet" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_castle" type="unit">
+		<texture path="units/pd2_mod_craft/props/textures/cobblestone_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/black_terracotta_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/bookshelf_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/brick_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/gravel_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cauldron_inside_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cauldron_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cauldron_top_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/coal_block_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cyan_terracotta_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/dirt_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/dirt_snow_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/snow_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/furnace_front_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/furnace_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/furnace_top_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/hopper_outside_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/hopper_top_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/ladder_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/lever_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/light_blue_terracotta_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_acacia_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_acacia_top_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_oak_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_oak_top_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/plank_acacia_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/plank_birch_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/plank_dark_oak_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/plank_oak_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/plank_spruce_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/polished_andesite_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/polished_diorite_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/polished_granite_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/quartz_bottom_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/quartz_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/quartz_side_lines_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/quartz_top_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/quartz_top_lines_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/red_terracotta_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/sign_oak_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/smooth_stone_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/smooth_stone_slab_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/stone_bricks_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/stone_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/torch_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/torch_flame_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/wool_black_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/wool_blue_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/wool_brown_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/wool_gray_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/workbench_back_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/workbench_front_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/workbench_top_df" unload="true"/>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_castle" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_castle" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_castle" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_castle" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_chest" type="unit">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_chest" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_chest" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_chest" unload="true"/>
+		<sequence_manager path="units/pd2_mod_craft/props/prop_cube_chest" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_chest_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_chest" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_cobblestone" type="unit">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_cobblestone" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_cobblestone" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_cobblestone" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_cobblestone_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_cobblestone" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_concrete_black" type="unit">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_concrete_black" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_concrete_black" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_concrete_black" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_concrete_black_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_concrete_black" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_concrete_yellow" type="unit">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_concrete_yellow" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_concrete_yellow" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_concrete_yellow" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_concrete_yellow_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_concrete_yellow" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_crafting_table" type="unit">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_crafting_table" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_crafting_table" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_crafting_table" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_crafting_table_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_crafting_table" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_dirt" type="unit">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_dirt" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_dirt" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_dirt" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_dirt_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_dirt" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_fence" type="unit">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_fence" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_fence" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_fence" unload="true"/>
+		<sequence_manager path="units/pd2_mod_craft/props/prop_cube_fence" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_fence_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_fence" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_glass" type="unit">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_glass" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_glass" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_glass" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_glass_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_glass" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_glass_int" type="unit">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_glass_int" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_glass_int" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_glass_int" unload="true"/>
+		<sequence_manager path="units/pd2_mod_craft/props/prop_cube_glass_int" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_glass_int_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_glass_int" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_grass" type="unit">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_grass" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_grass" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_grass" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_snow_grass_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_grass" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_iron_door" type="unit">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_iron_door" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_iron_door" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_iron_door" unload="true"/>
+		<sequence_manager path="units/pd2_mod_craft/props/prop_cube_iron_door" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_iron_door_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_iron_door" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_log_oak" type="unit">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_log_oak" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_log_oak" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_log_oak" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_log_oak_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_log_oak" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_netherportal" type="unit">
+		<texture path="units/pd2_mod_craft/props/prop_cube_obsidian_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/portal" unload="true"/>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_netherportal" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_netherportal" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_netherportal" unload="true"/>
+		<sequence_manager path="units/pd2_mod_craft/props/prop_cube_netherportal" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_netherportal" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_oak_door" type="unit">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_oak_door" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_oak_door" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_oak_door" unload="true"/>
+		<sequence_manager path="units/pd2_mod_craft/props/prop_cube_oak_door" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_oak_door_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_oak_door" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_oak_plank" type="unit">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_oak_plank" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_oak_plank" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_oak_plank" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_oak_plank_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_oak_plank" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_obsidian" type="unit">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_obsidian" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_obsidian" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_obsidian" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_obsidian_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_obsidian" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_obsidian_int" type="unit">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_obsidian" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_obsidian_int" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_obsidian_int" unload="true"/>
+		<sequence_manager path="units/pd2_mod_craft/props/prop_cube_obsidian_int" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_obsidian_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_obsidian_int" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_road" type="unit">
+		<texture path="units/pd2_mod_craft/props/textures/black_concrete_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/gray_concrete_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/yellow_terracotta_df" unload="true"/>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_road" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_road" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_road" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_road" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_slab_stone" type="unit">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_slab_stone" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_slab_stone" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_slab_stone" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_slab_stone_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_slab_stone" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_snow" type="unit">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_snow" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_snow" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_snow" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/snow_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_snow" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_stair_cobblestone" type="unit">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_stair_cobblestone" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_stair_cobblestone" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_stair_cobblestone" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_stair_cobblestone_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_stair_cobblestone" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/prop_cube_stair_oak" type="unit">
+		<material_config path="units/pd2_mod_craft/props/prop_cube_stair_oak" unload="true"/>
+		<model path="units/pd2_mod_craft/props/prop_cube_stair_oak" unload="true"/>
+		<object path="units/pd2_mod_craft/props/prop_cube_stair_oak" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/prop_cube_stair_oak_df" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/prop_cube_stair_oak" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props/wheat" type="unit">
+		<texture path="units/pd2_mod_craft/props/textures/leaves_oak_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_oak_top_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_oak_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/blue_stuff" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/egg" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/wheat" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/sugar" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_top" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_side" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_bottom" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/ironingot" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/flint" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/flintnsteel" unload="true"/>
+		<texture path="units/white_df" unload="true"/>
+		<texture path="units/transparent_op" unload="true"/>
+		<material_config path="units/pd2_mod_craft/material_mastercoff" unload="true"/>
+		<model path="units/pd2_mod_craft/props/wheat" unload="true"/>
+		<object path="units/pd2_mod_craft/props/wheat" unload="true"/>
+		<sequence_manager path="units/pd2_mod_craft/props/wheat" unload="true"/>
+		<unit path="units/pd2_mod_craft/props/wheat" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props_rex/egg" type="unit">
+		<texture path="units/pd2_mod_craft/props/textures/leaves_oak_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_oak_top_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_oak_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/blue_stuff" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/egg" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/wheat" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/sugar" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_top" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_side" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_bottom" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/ironingot" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/flint" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/flintnsteel" unload="true"/>
+		<texture path="units/white_df" unload="true"/>
+		<texture path="units/transparent_op" unload="true"/>
+		<material_config path="units/pd2_mod_craft/material_mastercoff" unload="true"/>
+		<model path="units/pd2_mod_craft/props_rex/egg" unload="true"/>
+		<object path="units/pd2_mod_craft/props_rex/egg" unload="true"/>
+		<sequence_manager path="units/pd2_mod_craft/props_rex/egg" unload="true"/>
+		<unit path="units/pd2_mod_craft/props_rex/egg" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props_rex/mc_cliffs" type="unit">
+		<texture path="units/pd2_mod_craft/props/textures/cobblestone_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/black_terracotta_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/bookshelf_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/brick_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/gravel_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cauldron_inside_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cauldron_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cauldron_top_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/coal_block_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cyan_terracotta_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/dirt_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/dirt_snow_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/snow_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/furnace_front_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/furnace_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/furnace_top_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/hopper_outside_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/hopper_top_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/ladder_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/lever_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/light_blue_terracotta_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_acacia_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_acacia_top_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_oak_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_oak_top_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/plank_acacia_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/plank_birch_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/plank_dark_oak_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/plank_oak_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/plank_spruce_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/polished_andesite_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/polished_diorite_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/polished_granite_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/quartz_bottom_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/quartz_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/quartz_side_lines_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/quartz_top_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/quartz_top_lines_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/red_terracotta_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/sign_oak_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/smooth_stone_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/smooth_stone_slab_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/stone_bricks_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/stone_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/torch_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/torch_flame_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/wool_black_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/wool_blue_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/wool_brown_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/wool_gray_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/workbench_back_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/workbench_front_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/workbench_top_df" unload="true"/>
+		<material_config path="units/pd2_mod_craft/props/prop_cube_castle" unload="true"/>
+		<model path="units/pd2_mod_craft/props_rex/mc_cliffs" unload="true"/>
+		<object path="units/pd2_mod_craft/props_rex/mc_cliffs" unload="true"/>
+		<unit path="units/pd2_mod_craft/props_rex/mc_cliffs" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props_rex/mc_pku_sugar" type="unit">
+		<texture path="units/pd2_mod_craft/props/textures/leaves_oak_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_oak_top_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_oak_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/blue_stuff" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/egg" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/wheat" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/sugar" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_top" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_side" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_bottom" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/ironingot" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/flint" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/flintnsteel" unload="true"/>
+		<texture path="units/white_df" unload="true"/>
+		<texture path="units/transparent_op" unload="true"/>
+		<material_config path="units/pd2_mod_craft/material_mastercoff" unload="true"/>
+		<model path="units/pd2_mod_craft/props_rex/mc_pku_sugar" unload="true"/>
+		<object path="units/pd2_mod_craft/props_rex/mc_pku_sugar" unload="true"/>
+		<sequence_manager path="units/pd2_mod_craft/props_rex/mc_pku_sugar" unload="true"/>
+		<unit path="units/pd2_mod_craft/props_rex/mc_pku_sugar" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_craft/props_rex/mc_tree_oak_a" type="unit">
+		<texture path="units/pd2_mod_craft/props/textures/leaves_oak_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_oak_top_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/log_oak_side_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/blue_stuff" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/egg" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/wheat" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/sugar" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_top" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_side" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/cake_bottom" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/ironingot" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/flint" unload="true"/>
+		<texture path="units/pd2_mod_craft/props/textures/flintnsteel" unload="true"/>
+		<texture path="units/white_df" unload="true"/>
+		<texture path="units/transparent_op" unload="true"/>
+		<material_config path="units/pd2_mod_craft/material_mastercoff" unload="true"/>
+		<model path="units/pd2_mod_craft/props_rex/mc_tree_oak_a" unload="true"/>
+		<object path="units/pd2_mod_craft/props_rex/mc_tree_oak_a" unload="true"/>
+		<unit path="units/pd2_mod_craft/props_rex/mc_tree_oak_a" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_city_heavy_g36/ene_mc_city_heavy_g36" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_city_heavy_g36/ene_mc_city_heavy_g36_husk" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_city_heavy_g36/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_city_heavy_g36/body_nm" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_city_heavy_r870/ene_mc_city_heavy_r870" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_city_heavy_r870/ene_mc_city_heavy_r870_husk" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_city_heavy_g36/ene_mc_city_heavy_g36" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_city_heavy_g36/ene_mc_city_heavy_g36_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/ene_mc_city_heavy_g36/ene_mc_city_heavy_g36" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/ene_mc_city_heavy_g36/ene_mc_city_heavy_g36" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/ene_mc_city_heavy_g36/ene_mc_city_heavy_g36" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_city_swat_1/ene_mc_city_swat_1" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_city_swat_1/ene_mc_city_swat_1_husk" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_city_swat_1/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_city_swat_1/body_nm" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_city_swat_2/ene_mc_city_swat_2" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_city_swat_2/ene_mc_city_swat_2_husk" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_city_swat_3/ene_mc_city_swat_3" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_city_swat_3/ene_mc_city_swat_3_husk" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_city_swat_r870/ene_mc_city_swat_r870" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_city_swat_r870/ene_mc_city_swat_r870_husk" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_city_swat_1/ene_mc_city_swat_1" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_city_swat_1/ene_mc_city_swat_1_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/ene_mc_city_swat_1/ene_mc_city_swat_1" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/ene_mc_city_swat_1/ene_mc_city_swat_1" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/ene_mc_city_swat_1/ene_mc_city_swat_1" unload="true"/>
+	</add>
+	<add>
+		<model path="units/pd2_mod_craft/characters/ene_mc_cop_1/ene_mc_cop_1" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/ene_mc_cop_1/ene_mc_cop_1" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_cop_1/ene_mc_cop_1" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_cop_1/ene_mc_cop_1_husk" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_cop_1/ene_mc_cop_1" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_cop_1/ene_mc_cop_1_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/ene_mc_cop_1/ene_mc_cop_1" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_cop_1/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_cop_1/body_nm" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/ene_mc_cop_2/ene_mc_cop_2" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/ene_mc_cop_2/ene_mc_cop_2" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_cop_2/ene_mc_cop_2" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_cop_2/ene_mc_cop_2_husk" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_cop_2/ene_mc_cop_2" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_cop_2/ene_mc_cop_2_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/ene_mc_cop_2/ene_mc_cop_2" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_cop_2/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_cop_2/body_nm" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_cop_3/ene_mc_cop_3" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_cop_3/ene_mc_cop_3_husk" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_cop_4/ene_mc_cop_4" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_cop_4/ene_mc_cop_4_husk" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_bulldozer_1/ene_mc_bulldozer_1" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_bulldozer_1/ene_mc_bulldozer_1_husk" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_bulldozer_1/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_bulldozer_1/body_nm" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_bulldozer_1/ene_mc_bulldozer_1" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_bulldozer_1/ene_mc_bulldozer_1_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/ene_mc_bulldozer_1/ene_mc_bulldozer_1" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/ene_mc_bulldozer_1/ene_mc_bulldozer_1" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/ene_mc_bulldozer_1/ene_mc_bulldozer_1" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_bulldozer_2/ene_mc_bulldozer_2" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_bulldozer_2/ene_mc_bulldozer_2_husk" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_bulldozer_2/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_bulldozer_2/body_nm" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_bulldozer_2/ene_mc_bulldozer_2" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_bulldozer_2/ene_mc_bulldozer_2_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/ene_mc_bulldozer_2/ene_mc_bulldozer_2" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/ene_mc_bulldozer_2/ene_mc_bulldozer_2" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/ene_mc_bulldozer_2/ene_mc_bulldozer_2" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_bulldozer_3/ene_mc_bulldozer_3" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_bulldozer_3/ene_mc_bulldozer_3_husk" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_bulldozer_3/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_bulldozer_3/body_nm" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_bulldozer_3/ene_mc_bulldozer_3" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_bulldozer_3/ene_mc_bulldozer_3_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/ene_mc_bulldozer_3/ene_mc_bulldozer_3" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/ene_mc_bulldozer_3/ene_mc_bulldozer_3" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/ene_mc_bulldozer_3/ene_mc_bulldozer_3" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_fbi_heavy_1/ene_mc_fbi_heavy_1" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_fbi_heavy_1/ene_mc_fbi_heavy_1_husk" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_fbi_heavy_1/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_fbi_heavy_1/body_nm" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_fbi_heavy_r870/ene_mc_fbi_heavy_r870" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_fbi_heavy_r870/ene_mc_fbi_heavy_r870_husk" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_fbi_heavy_1/ene_mc_fbi_heavy_1" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_fbi_heavy_1/ene_mc_fbi_heavy_1_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/ene_mc_fbi_heavy_1/ene_mc_fbi_heavy_1" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/ene_mc_fbi_heavy_1/ene_mc_fbi_heavy_1" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/ene_mc_fbi_heavy_1/ene_mc_fbi_heavy_1" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_fbi_swat_1/ene_mc_fbi_swat_1" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_fbi_swat_1/ene_mc_fbi_swat_1_husk" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_fbi_swat_1/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_fbi_swat_1/body_nm" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_fbi_swat_2/ene_mc_fbi_swat_2" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_fbi_swat_2/ene_mc_fbi_swat_2_husk" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_fbi_swat_1/ene_mc_fbi_swat_1" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_fbi_swat_1/ene_mc_fbi_swat_1_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/ene_mc_fbi_swat_1/ene_mc_fbi_swat_1" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/ene_mc_fbi_swat_1/ene_mc_fbi_swat_1" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/ene_mc_fbi_swat_1/ene_mc_fbi_swat_1" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_guard_1/ene_mc_guard_1" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_guard_1/ene_mc_guard_1_husk" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_guard_1/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_guard_1/body_nm" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_guard_1/ene_mc_guard_1" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_guard_1/ene_mc_guard_1_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/ene_mc_guard_1/ene_mc_guard_1" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/ene_mc_guard_1/ene_mc_guard_1" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/ene_mc_guard_1/ene_mc_guard_1" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_guard_2/ene_mc_guard_2" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_guard_2/ene_mc_guard_2_husk" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_guard_2/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_guard_2/body_nm" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_guard_2/ene_mc_guard_2" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_guard_2/ene_mc_guard_2_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/ene_mc_guard_2/ene_mc_guard_2" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/ene_mc_guard_2/ene_mc_guard_2" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/ene_mc_guard_2/ene_mc_guard_2" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_medic_m4/ene_mc_medic_m4" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_medic_m4/ene_mc_medic_m4_husk" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_medic_m4/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_medic_m4/body_nm" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_medic_r870/ene_mc_medic_r870" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_medic_r870/ene_mc_medic_r870_husk" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_medic_m4/ene_mc_medic_m4" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_medic_m4/ene_mc_medic_m4_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/ene_mc_medic_m4/ene_mc_medic_m4" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/ene_mc_medic_m4/ene_mc_medic_m4" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/ene_mc_medic_m4/ene_mc_medic_m4" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_shield_1/ene_mc_shield_1" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_shield_1/ene_mc_shield_1_husk" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_shield_2/ene_mc_shield_2" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_shield_2/ene_mc_shield_2_husk" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_shield_city/ene_mc_shield_city" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_shield_city/ene_mc_shield_city_husk" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_zeal_swat_shield/ene_mc_zeal_swat_shield" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_zeal_swat_shield/ene_mc_zeal_swat_shield_husk" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_spook_1/ene_mc_spook_1" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_spook_1/ene_mc_spook_1_husk" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_spook_1/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_spook_1/body_nm" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_spook_1/ene_mc_spook_1" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_spook_1/ene_mc_spook_1_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/ene_mc_spook_1/ene_mc_spook_1" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/ene_mc_spook_1/ene_mc_spook_1" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/ene_mc_spook_1/ene_mc_spook_1" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_swat_1/ene_mc_swat_1" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_swat_1/ene_mc_swat_1_husk" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_swat_1/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_swat_1/body_nm" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_swat_2/ene_mc_swat_2" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_swat_2/ene_mc_swat_2_husk" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_swat_1/ene_mc_swat_1" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_swat_1/ene_mc_swat_1_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/ene_mc_swat_1/ene_mc_swat_1" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/ene_mc_swat_1/ene_mc_swat_1" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/ene_mc_swat_1/ene_mc_swat_1" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_swat_heavy_1/ene_mc_swat_heavy_1" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_swat_heavy_1/ene_mc_swat_heavy_1_husk" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_swat_heavy_1/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_swat_heavy_1/body_nm" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_swat_heavy_r870/ene_mc_swat_heavy_r870" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_swat_heavy_r870/ene_mc_swat_heavy_r870_husk" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_swat_heavy_1/ene_mc_swat_heavy_1" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_swat_heavy_1/ene_mc_swat_heavy_1_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/ene_mc_swat_heavy_1/ene_mc_swat_heavy_1" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/ene_mc_swat_heavy_1/ene_mc_swat_heavy_1" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/ene_mc_swat_heavy_1/ene_mc_swat_heavy_1" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_tazer_1/ene_mc_tazer_1" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_tazer_1/ene_mc_tazer_1_husk" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_tazer_1/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_tazer_1/body_nm" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_tazer_1/ene_mc_tazer_1" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_tazer_1/ene_mc_tazer_1_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/ene_mc_tazer_1/ene_mc_tazer_1" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/ene_mc_tazer_1/ene_mc_tazer_1" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/ene_mc_tazer_1/ene_mc_tazer_1" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_zeal_bulldozer/ene_mc_zeal_bulldozer" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_zeal_bulldozer/ene_mc_zeal_bulldozer_husk" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_zeal_bulldozer/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_zeal_bulldozer/body_nm" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_zeal_bulldozer_2/ene_mc_zeal_bulldozer_2" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_zeal_bulldozer_2/ene_mc_zeal_bulldozer_2_husk" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_zeal_bulldozer_3/ene_mc_zeal_bulldozer_3" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_zeal_bulldozer_3/ene_mc_zeal_bulldozer_3_husk" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_zeal_bulldozer/ene_mc_zeal_bulldozer" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_zeal_bulldozer/ene_mc_zeal_bulldozer_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/ene_mc_zeal_bulldozer/ene_mc_zeal_bulldozer" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/ene_mc_zeal_bulldozer/ene_mc_zeal_bulldozer" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/ene_mc_zeal_bulldozer/ene_mc_zeal_bulldozer" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_zeal_swat/ene_mc_zeal_swat" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_zeal_swat/ene_mc_zeal_swat_husk" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_zeal_swat/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_zeal_swat/body_nm" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_zeal_swat/ene_mc_zeal_swat" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_zeal_swat/ene_mc_zeal_swat_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/ene_mc_zeal_swat/ene_mc_zeal_swat" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/ene_mc_zeal_swat/ene_mc_zeal_swat" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/ene_mc_zeal_swat/ene_mc_zeal_swat" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_zeal_swat_heavy/ene_mc_zeal_swat_heavy" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_zeal_swat_heavy/ene_mc_zeal_swat_heavy_husk" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_zeal_swat_heavy/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_zeal_swat_heavy/body_nm" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_zeal_swat_heavy/ene_mc_zeal_swat_heavy" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/ene_mc_zeal_swat_heavy/ene_mc_zeal_swat_heavy_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/ene_mc_zeal_swat_heavy/ene_mc_zeal_swat_heavy" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/ene_mc_zeal_swat_heavy/ene_mc_zeal_swat_heavy" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/ene_mc_zeal_swat_heavy/ene_mc_zeal_swat_heavy" unload="true"/>
+	</add>
+	<add>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_zeal_swat_heavy/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/ene_mc_zeal_swat_heavy/body_nm" unload="true"/>
+		<cooked_physics path="units/pd2_dlc_gitgud/characters/ene_acc_shield_new_swat/ene_acc_shield_new_swat" unload="true"/>
+		<material_config path="units/pd2_dlc_gitgud/characters/ene_acc_shield_new_swat/ene_acc_shield_new_swat" unload="true"/>
+		<model path="units/pd2_dlc_gitgud/characters/ene_acc_shield_new_swat/ene_acc_shield_new_swat" unload="true"/>
+		<object path="units/pd2_dlc_gitgud/characters/ene_acc_shield_new_swat/ene_acc_shield_new_swat" unload="true"/>
+		<sequence_manager path="units/pd2_dlc_gitgud/characters/ene_acc_shield_new_swat/ene_acc_shield_new_swat" unload="true"/>
+		<unit path="units/pd2_dlc_gitgud/characters/ene_acc_shield_new_swat/ene_acc_shield_new_swat" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_sniper_1/ene_mc_sniper_1" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/ene_mc_sniper_1/ene_mc_sniper_1_husk" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/civ_captainsparklez/civ_captainsparklez" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/civ_captainsparklez/civ_captainsparklez_husk" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/civ_captainsparklez/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/civ_captainsparklez/body_nm" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/civ_captainsparklez/civ_captainsparklez" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/civ_captainsparklez/civ_captainsparklez_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/civ_captainsparklez/civ_captainsparklez" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/civ_captainsparklez/civ_captainsparklez" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/civ_captainsparklez/civ_captainsparklez" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/civ_herobrine/civ_herobrine" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/civ_herobrine/civ_herobrine_husk" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/civ_herobrine/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/civ_herobrine/body_nm" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/civ_herobrine/civ_herobrine" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/civ_herobrine/civ_herobrine_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/civ_herobrine/civ_herobrine" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/civ_herobrine/civ_herobrine" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/civ_herobrine/civ_herobrine" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/civ_karacorvus/civ_karacorvus" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/civ_karacorvus/civ_karacorvus_husk" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/civ_karacorvus/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/civ_karacorvus/body_nm" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/civ_karacorvus/civ_karacorvus" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/civ_karacorvus/civ_karacorvus_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/civ_karacorvus/civ_karacorvus" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/civ_karacorvus/civ_karacorvus" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/civ_karacorvus/civ_karacorvus" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/civ_pewdiepie/civ_pewdiepie" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/civ_pewdiepie/civ_pewdiepie_husk" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/civ_pewdiepie/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/civ_pewdiepie/body_nm" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/civ_pewdiepie/civ_pewdiepie" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/civ_pewdiepie/civ_pewdiepie_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/civ_pewdiepie/civ_pewdiepie" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/civ_pewdiepie/civ_pewdiepie" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/civ_pewdiepie/civ_pewdiepie" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/civ_sethbling/civ_sethbling" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/civ_sethbling/civ_sethbling_husk" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/civ_sethbling/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/civ_sethbling/body_nm" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/civ_sethbling/civ_sethbling" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/civ_sethbling/civ_sethbling_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/civ_sethbling/civ_sethbling" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/civ_sethbling/civ_sethbling" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/civ_sethbling/civ_sethbling" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/civ_shubbleyt/civ_shubbleyt" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/civ_shubbleyt/civ_shubbleyt_husk" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/civ_shubbleyt/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/civ_shubbleyt/body_nm" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/civ_shubbleyt/civ_shubbleyt" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/civ_shubbleyt/civ_shubbleyt_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/civ_shubbleyt/civ_shubbleyt" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/civ_shubbleyt/civ_shubbleyt" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/civ_shubbleyt/civ_shubbleyt" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/pd2_mod_craft/characters/civ_technoblade/civ_technoblade" unload="true"/>
+		<unit load="true" path="units/pd2_mod_craft/characters/civ_technoblade/civ_technoblade_husk" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/civ_technoblade/body_df" unload="true"/>
+		<texture path="units/pd2_mod_craft/characters/civ_technoblade/body_nm" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/civ_technoblade/civ_technoblade" unload="true"/>
+		<material_config path="units/pd2_mod_craft/characters/civ_technoblade/civ_technoblade_contour" unload="true"/>
+		<cooked_physics path="units/pd2_mod_craft/characters/civ_technoblade/civ_technoblade" unload="true"/>
+		<model path="units/pd2_mod_craft/characters/civ_technoblade/civ_technoblade" unload="true"/>
+		<object path="units/pd2_mod_craft/characters/civ_technoblade/civ_technoblade" unload="true"/>
+	</add>
+	<movie path="Sounds/stop"/>
+</table>

@@ -1,0 +1,18 @@
+<dynamic_object>
+	<diesel materials="units/pd2_mod_craft/props/methlab" orientation_object="rp_root" />
+	<sequence_manager file="units/pd2_mod_craft/props/methlab" />
+	<bodies>
+		<body name="static_body" enabled="true" template="static">
+			<object collision_type="mesh_mopp" name="brewing_stand" />
+			<object collision_type="mesh_mopp" name="brewing_stand_base" />
+		</body>
+	</bodies>
+	
+	<graphics>
+		<graphic_group name="g_all" enabled="true" culling_object="co_egg">
+		    <object	name="brewing_stand_outline"				enabled="true" />
+		    <object	name="brewing_stand"			enabled="true" />
+		    <object	name="brewing_stand_base"			enabled="true" />
+		</graphic_group>
+	</graphics>
+</dynamic_object>

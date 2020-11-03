@@ -1,0 +1,28 @@
+<dynamic_object>
+	<diesel materials="units/pd2_mod_craft/props/prop_cube_fence" orientation_object="rp_root" />
+	<sequence_manager file="units/pd2_mod_craft/props/prop_cube_fence" />
+
+	<bodies>
+		<body name="static_body" enabled="true" template="static">
+			<object name="g_g" collision_type="box" padding="-2.5"/>
+		</body>
+		<body name="fence_right_two" enabled="true" template="static">
+			<object name="g_fence_right_two" collision_type="box" padding="-2.5"/>
+		</body>
+	    <body name="fence_right_one" enabled="true" template="static">
+			<object name="g_fence_right_one" collision_type="box" padding="-2.5"/>
+		</body>
+	</bodies>
+	
+	<graphics>
+		<graphic_group name="graphics" culling_object="g_g" enabled="true">
+			<object	name="g_g"	enabled="true" shadow_caster="true"/>
+		</graphic_group>
+		<graphic_group name="fence_right_one" culling_object="g_fence_right_one" enabled="true">
+			<object	name="g_fence_right_one"	enabled="true" shadow_caster="true"/>
+		</graphic_group>
+		<graphic_group name="fence_right_two" culling_object="g_fence_right_two" enabled="true">
+			<object	name="g_fence_right_two"	enabled="true" shadow_caster="true"/>
+		</graphic_group>
+	</graphics>
+</dynamic_object>

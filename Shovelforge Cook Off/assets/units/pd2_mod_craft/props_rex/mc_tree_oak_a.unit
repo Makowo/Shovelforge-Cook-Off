@@ -1,0 +1,6 @@
+<unit type="mine" slot="1">
+	<object file="units/pd2_mod_craft/props_rex/mc_tree_oak_a" />
+	<extensions>
+		<extension class="ScriptUnitData" name="unit_data" />
+	</extensions>
+</unit>
